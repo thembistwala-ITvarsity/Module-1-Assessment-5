@@ -22,3 +22,15 @@
 #menu a:hover{
     color: #5077bd;
 }
+h2{
+    color:#2e0c7e ;
+    font-family: Helvetica, sans-serif;
+    font-style: italic;
+    
+}
+
+h4{
+    color: blueviolet;
+    font-family: Helvetica, sans-serif;
+    font-style: italic;
+}
