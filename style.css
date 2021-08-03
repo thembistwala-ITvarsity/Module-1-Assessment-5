@@ -22,15 +22,23 @@
 #menu a:hover{
     color: #5077bd;
 }
+
 h2{
-    color:#2e0c7e ;
-    font-family: Helvetica, sans-serif;
+    font-family: Impact, fantasy;
+    text-align: center;
+    font-size: 30px;
+    color: cornflowerblue;
     font-style: italic;
-    
 }
 
 h4{
-    color: blueviolet;
+   font-family: Impact, fantasy;
+   font-size: 20px;
+   font-style: italic;
+   color: cornflowerblue;
+
+}
+p{
+
     font-family: Helvetica, sans-serif;
-    font-style: italic;
 }
